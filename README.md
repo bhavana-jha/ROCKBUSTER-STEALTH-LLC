@@ -13,4 +13,4 @@ Do sales figures vary between geographic regions?
 # DATA SETS
 Rockbuster data set that includes tables on Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
 # TOOLS
-PostgreSQL Database, Excel, Gemini AI(for picture generation)
+PostgreSQL Database, Tableau, Excel, Gemini AI(for picture generation) 
