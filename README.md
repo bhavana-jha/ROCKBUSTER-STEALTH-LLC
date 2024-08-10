@@ -1,5 +1,16 @@
-# INDRODUCTION
-  Rockbuster Stealth LLC i s a movie rental company that used to have stores around the
-  world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
-  the Rockbuster Stealth management team i s planning to use i ts existing movie l icenses to
-  launch an online video rental service i n order to stay competitive.
+# PROJECT OVERVIEW AND OBJECTIVES
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing
+stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth
+management team is planning to use its existing movie licenses to launch an online video rental
+service in order to stay competitive. Company’s management board wants to have a data-driven
+launch strategy for 2020.
+# KEY QUESTIONS
+Which movies contributed the most/least to revenue gain?
+What was the average rental duration for all videos?
+Which countries are Rockbuster customers based in?
+Where are customers with a high lifetime value based?
+Do sales figures vary between geographic regions?
+# DATA SETS
+Rockbuster data set that includes tables on Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
+# TOOLS
+PostgreSQL Database, Excel, Gemini AI(for picture generation)
