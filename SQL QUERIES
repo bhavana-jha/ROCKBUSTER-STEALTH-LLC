@@ -1,4 +1,4 @@
-# Here is a SQL query to find top 10 customers globally using SELECT, Aggregation, JOIN function, GROUP BY, ORDER BY and LIMIT function:
+# Here is a SQL query to find top 10 customers globally:
 SELECT customer.customer_id,					
        customer.first_name,					
        customer.last_name,					
