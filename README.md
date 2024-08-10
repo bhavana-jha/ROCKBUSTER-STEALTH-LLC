@@ -14,6 +14,7 @@ launch strategy for 2020.
 Rockbuster data set that includes tables on Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history and addresses.
 # TOOLS
 * PostgreSQL Database
-* Tableau https://public.tableau.com/views/DIEx2_9Story/Story1?:language=enGB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* Tableau
+https://public.tableau.com/views/DI_Ex3_10SQLSTORY/Story1?:language=enGB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 * Excel
 * Gemini AI(for picture generation) 
